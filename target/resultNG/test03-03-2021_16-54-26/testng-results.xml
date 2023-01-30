@@ -1,0 +1,3558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Start App</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Avvio l'applicazione]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Login</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>tap ho gia un Account]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Autorizzazione SMS</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>OK - autorizza la lettura automatica del codice OTP via SMS]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Android Permission</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>accetto i permessi android]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Numero Telefonico</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Inserisco il numero di telefono: 1111110019]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Insert Passcode</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>inserisco il passcode: 00000]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Insert SMS code</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>inserisco il codice ricevuto via SMS: 123456]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: FingerPrint</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Skip Biometric]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Skip banner 1]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Skip banner 2]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Skip banner 3]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Money</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>money page (jump)]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token Banner</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Visualizzo il Dialog per il security token]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Insert PassCode: 00000]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Confirm Security token00000]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Dialog Token Facile - OK]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Confirm Security token00000]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Dialog FingerPrint</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Skip Dialog FingerPrint]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Security token settato pagina di Successo - ok]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>prova]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess take screen]]>
+    </line>
+    <line>
+      <![CDATA[Test feature.login.PrimoLogin completato in : 03/03/2021 16:56:03]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: GoTo Money</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Jump to Money]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: GoTo Home</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Jump to Home]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: GoTo CashIn</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>CashIn]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Page CashIn</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Tap Richiedi]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Permessi Rubrica</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Tap Sincronizza Rubrica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Permission App</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Tap OK]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Permission Android</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Tap OK]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Seleziono il numero</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Seleziono il secondo numero in rubrica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Importo da ricaricare</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>inserisco 26 come importo]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>primaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>prova]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Test primaRichiestaRicarica fallito : 2]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Start App</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Avvio l'applicazione]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Login</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>tap ho gia un Account]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Autorizzazione SMS</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>OK - autorizza la lettura automatica del codice OTP via SMS]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Android Permission</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>accetto i permessi android]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Numero Telefonico</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>Inserisco il numero di telefono: 3346309237]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Step: Insert Passcode</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>inserisco il passcode: 00000]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>loginNuovoNumeroFlowe]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>prova]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Test loginNuovoNumeroFlowe fallito : 2]]>
+    </line>
+    <line>
+      <![CDATA[<table style='width: 100%;'>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<td style='width: 20%']]>
+    </line>
+    <line>
+      <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>verificaEAccettaRichiestaRicarica]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[<td>prova]]>
+    </line>
+    <line>
+      <![CDATA[</td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>  ]]>
+    </line>
+    <line>
+      <![CDATA[ </table>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Test verificaEAccettaRichiestaRicarica fallito : 2]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-03T16:57:05 CET" name="Accetto una ricarica Flowe" finished-at="2021-03-03T16:59:04 CET" duration-ms="119609">
+    <groups>
+    </groups>
+    <test started-at="2021-03-03T16:57:05 CET" name="test 2014 semiautomaticoIdTest03" finished-at="2021-03-03T16:59:04 CET" duration-ms="119609">
+      <class name="feature.cashIn.VerificaEAccettaRichiestaRicarica">
+        <test-method signature="verificaEAccettaRichiestaRicarica(java.lang.String)[pri:0, instance:feature.cashIn.VerificaEAccettaRichiestaRicarica@30b34287]" started-at="2021-03-03T16:58:22 CET" name="verificaEAccettaRichiestaRicarica" finished-at="2021-03-03T16:59:03 CET" duration-ms="40384" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest04]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.id: bm0.zero.tier2:id/homeUserBalance (tried for 40 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: bm0.zero.tier2:id/homeUserBalance (tried for 40 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at feature.cashIn.VerificaEAccettaRichiestaRicarica.verificaEAccettaRichiestaRicarica(VerificaEAccettaRichiestaRicarica.java:48)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at testNG.NGMethod.testRunner(NGMethod.java:129)
+at appiumtest.AppiumTest.main(AppiumTest.java:62)
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'FGBAL041809', ip: '192.168.1.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, databaseEnabled: false, desired: {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, deviceName: SM-A510F, platformName: android, platformVersions: 7.0, udid: 33001164d113a25d}, deviceApiLevel: 24, deviceManufacturer: samsung, deviceModel: SM-A510F, deviceName: 33001164d113a25d, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 33001164d113a25d, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 7.0, platformVersions: 7.0, statBarHeight: 72, takesScreenshot: true, udid: 33001164d113a25d, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1db09d6d-423e-423d-a9c5-fd886ba40703
+*** Element info: {Using=id, value=bm0.zero.tier2:id/homeUserBalance}
+at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:247)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)
+at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 28 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-59-04-verificaEAccettaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>verificaEAccettaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>prova]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Test verificaEAccettaRichiestaRicarica fallito : 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verificaEAccettaRichiestaRicarica -->
+      </class> <!-- feature.cashIn.VerificaEAccettaRichiestaRicarica -->
+      <class name="feature.login.PrimoLogin">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String)[pri:0, instance:feature.login.PrimoLogin@287f94b1]" started-at="2021-03-03T16:57:05 CET" name="beforeSuite" finished-at="2021-03-03T16:57:28 CET" duration-ms="22942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="loginNuovoNumeroFlowe(java.lang.String)[pri:0, instance:feature.login.PrimoLogin@287f94b1]" started-at="2021-03-03T16:57:28 CET" name="loginNuovoNumeroFlowe" finished-at="2021-03-03T16:58:21 CET" duration-ms="53238" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest04]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.id: bm0.zero.tier2:id/otpPinEntry (tried for 40 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: bm0.zero.tier2:id/otpPinEntry (tried for 40 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at feature.login.PrimoLogin.loginNuovoNumeroFlowe(PrimoLogin.java:131)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at testNG.NGMethod.testRunner(NGMethod.java:129)
+at appiumtest.AppiumTest.main(AppiumTest.java:62)
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'FGBAL041809', ip: '192.168.1.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, databaseEnabled: false, desired: {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, deviceName: SM-A510F, platformName: android, platformVersions: 7.0, udid: 33001164d113a25d}, deviceApiLevel: 24, deviceManufacturer: samsung, deviceModel: SM-A510F, deviceName: 33001164d113a25d, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 33001164d113a25d, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 7.0, platformVersions: 7.0, statBarHeight: 72, takesScreenshot: true, udid: 33001164d113a25d, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1db09d6d-423e-423d-a9c5-fd886ba40703
+*** Element info: {Using=id, value=bm0.zero.tier2:id/otpPinEntry}
+at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:247)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)
+at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 28 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Start App</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-29-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Avvio l'applicazione]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Login</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-31-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>tap ho gia un Account]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Autorizzazione SMS</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-32-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>OK - autorizza la lettura automatica del codice OTP via SMS]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Android Permission</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-34-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>accetto i permessi android]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Numero Telefonico</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Inserisco il numero di telefono: 3346309237]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Insert Passcode</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-40-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>inserisco il passcode: 00000]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-58-22-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>prova]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Test loginNuovoNumeroFlowe fallito : 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNuovoNumeroFlowe -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:feature.login.PrimoLogin@287f94b1]" started-at="2021-03-03T16:59:04 CET" name="afterSuite" finished-at="2021-03-03T16:59:06 CET" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- feature.login.PrimoLogin -->
+    </test> <!-- test 2014 semiautomaticoIdTest03 -->
+  </suite> <!-- Accetto una ricarica Flowe -->
+  <suite started-at="2021-03-03T16:54:26 CET" name="Richiedo una ricarica Flowe" finished-at="2021-03-03T16:57:03 CET" duration-ms="156651">
+    <groups>
+    </groups>
+    <test started-at="2021-03-03T16:54:26 CET" name="test 2014 semiautomatico" finished-at="2021-03-03T16:57:03 CET" duration-ms="156651">
+      <class name="feature.login.PrimoLogin">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String)[pri:0, instance:feature.login.PrimoLogin@3f093abe]" started-at="2021-03-03T16:54:26 CET" name="beforeSuite" finished-at="2021-03-03T16:55:17 CET" duration-ms="51386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest03]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="loginNuovoNumeroFlowe(java.lang.String)[pri:0, instance:feature.login.PrimoLogin@3f093abe]" started-at="2021-03-03T16:55:17 CET" name="loginNuovoNumeroFlowe" finished-at="2021-03-03T16:56:03 CET" duration-ms="45184" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest03]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Start App</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-19-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Avvio l'applicazione]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Login</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-21-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>tap ho gia un Account]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Autorizzazione SMS</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-22-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>OK - autorizza la lettura automatica del codice OTP via SMS]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Android Permission</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-24-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>accetto i permessi android]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Numero Telefonico</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-26-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Inserisco il numero di telefono: 1111110019]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Insert Passcode</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-27-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>inserisco il passcode: 00000]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Insert SMS code</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-31-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>inserisco il codice ricevuto via SMS: 123456]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: FingerPrint</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-33-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Skip Biometric]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-35-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Skip banner 1]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Skip banner 2]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Banner</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Skip banner 3]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Money</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-40-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>money page (jump)]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token Banner</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-41-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Visualizzo il Dialog per il security token]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-44-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Insert PassCode: 00000]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-48-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Confirm Security token00000]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-50-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Dialog Token Facile - OK]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-52-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Confirm Security token00000]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Dialog FingerPrint</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-55-59-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Skip Dialog FingerPrint]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Security Token</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-02-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Security token settato pagina di Successo - ok]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-04-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>loginNuovoNumeroFlowe]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>prova]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess take screen]]>
+            </line>
+            <line>
+              <![CDATA[Test feature.login.PrimoLogin completato in : 03/03/2021 16:56:03]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNuovoNumeroFlowe -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:feature.login.PrimoLogin@3f093abe]" started-at="2021-03-03T16:57:03 CET" name="afterSuite" finished-at="2021-03-03T16:57:05 CET" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- feature.login.PrimoLogin -->
+      <class name="feature.cashIn.PrimaRichiestaRicarica">
+        <test-method signature="primaRichiestaRicarica(java.lang.String)[pri:0, instance:feature.cashIn.PrimaRichiestaRicarica@72c927f1]" started-at="2021-03-03T16:56:04 CET" name="primaRichiestaRicarica" finished-at="2021-03-03T16:57:02 CET" duration-ms="57872" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IdTest03]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.ImageView (tried for 40 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.ImageView (tried for 40 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at feature.cashIn.PrimaRichiestaRicarica.primaRichiestaRicarica(PrimaRichiestaRicarica.java:158)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at testNG.NGMethod.testRunner(NGMethod.java:129)
+at appiumtest.AppiumTest.main(AppiumTest.java:62)
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'FGBAL041809', ip: '192.168.1.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, databaseEnabled: false, desired: {appActivity: bm0.zero.tier2.app.ZeroSpla..., appPackage: bm0.zero.tier2, deviceName: SM-A510F, platformName: android, platformVersions: 7.0, udid: 33001164d113a25d}, deviceApiLevel: 24, deviceManufacturer: samsung, deviceModel: SM-A510F, deviceName: 33001164d113a25d, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 33001164d113a25d, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 7.0, platformVersions: 7.0, statBarHeight: 72, takesScreenshot: true, udid: 33001164d113a25d, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4220ca1f-b7da-454e-979c-08c63aceaae4
+*** Element info: {Using=xpath, value=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.ImageView}
+at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:247)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)
+at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 28 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: GoTo Money</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-06-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Jump to Money]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: GoTo Home</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-07-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Jump to Home]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: GoTo CashIn</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-09-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>CashIn]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Page CashIn</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-11-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Tap Richiedi]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Permessi Rubrica</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-14-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Tap Sincronizza Rubrica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Permission App</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-15-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Tap OK]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Permission Android</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-16-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Tap OK]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Seleziono il numero</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-18-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>Seleziono il secondo numero in rubrica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Step: Importo da ricaricare</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-56-21-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>inserisco 26 come importo]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<table style='width: 100%;'>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><th colspan="3">Test: null</th></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<td style='width: 20%']]>
+            </line>
+            <line>
+              <![CDATA[<div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png' height='100' width='100' /></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\target/appiumScreens/03-03-2021_16-57-03-primaRichiestaRicarica.png target="_blank">click to open screenshot</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>primaRichiestaRicarica]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[<td>prova]]>
+            </line>
+            <line>
+              <![CDATA[</td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>  ]]>
+            </line>
+            <line>
+              <![CDATA[ </table>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Test primaRichiestaRicarica fallito : 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- primaRichiestaRicarica -->
+      </class> <!-- feature.cashIn.PrimaRichiestaRicarica -->
+    </test> <!-- test 2014 semiautomatico -->
+  </suite> <!-- Richiedo una ricarica Flowe -->
+</testng-results>

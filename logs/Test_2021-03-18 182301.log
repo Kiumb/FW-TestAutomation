@@ -1,0 +1,267 @@
+2021-03-18 18:23:01,710 INFO a.AppiumTest [main] System property : 20210318
+2021-03-18 18:23:01,714 INFO a.AppiumTest [main] info - Inizio test ore : 18-03-2021 18:23:01
+2021-03-18 18:23:01,716 INFO u.ImportCSV [main] Import CSV - Path: C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/testCaseData/TestCase1.xlsx
+2021-03-18 18:23:02,543 INFO u.ImportCSV [main] Row: 1 Col: 0 - cellChiave: Id Test - cellValue: IdTest001
+2021-03-18 18:23:02,543 INFO u.ImportCSV [main] Row: 1 Col: 1 - cellChiave: Test Title - cellValue: Login nuovo numero
+2021-03-18 18:23:02,544 INFO u.ImportCSV [main] Row: 1 Col: 2 - cellChiave: Description - cellValue: Testo il login per il numero 1111110019
+2021-03-18 18:23:02,544 INFO u.ImportCSV [main] Row: 1 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,545 INFO u.ImportCSV [main] Row: 1 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,546 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest001
+2021-03-18 18:23:02,547 INFO u.ImportCSV [main] idTest in cRow = IdTest001
+2021-03-18 18:23:02,547 INFO u.ImportCSV [main] cRowListX size = 1
+2021-03-18 18:23:02,547 INFO u.ImportCSV [main] Row: 2 Col: 0 - cellChiave: Id Test - cellValue: IdTest002
+2021-03-18 18:23:02,548 INFO u.ImportCSV [main] Row: 2 Col: 1 - cellChiave: Test Title - cellValue: Eseguo l'accesso all'app
+2021-03-18 18:23:02,548 INFO u.ImportCSV [main] Row: 2 Col: 2 - cellChiave: Description - cellValue: Testo la possibilità di accedere correttamente all'app
+2021-03-18 18:23:02,548 INFO u.ImportCSV [main] Row: 2 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,548 INFO u.ImportCSV [main] Row: 2 Col: 4 - cellChiave: Precondizione - cellValue: Primo Login eseguito
+2021-03-18 18:23:02,548 INFO u.ImportCSV [main] Row: 2 Col: 5 - cellChiave: Step001 - cellValue: Login - Solo Login
+2021-03-18 18:23:02,549 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,549 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest002
+2021-03-18 18:23:02,549 INFO u.ImportCSV [main] idTest in cRow = IdTest002
+2021-03-18 18:23:02,549 INFO u.ImportCSV [main] cRowListX size = 2
+2021-03-18 18:23:02,550 INFO u.ImportCSV [main] Row: 3 Col: 0 - cellChiave: Id Test - cellValue: IdTest003
+2021-03-18 18:23:02,550 INFO u.ImportCSV [main] Row: 3 Col: 1 - cellChiave: Test Title - cellValue: Richiedo una ricarica Flowe
+2021-03-18 18:23:02,551 INFO u.ImportCSV [main] Row: 3 Col: 2 - cellChiave: Description - cellValue: Richiedo una ricarica ad un altro utente flowe
+2021-03-18 18:23:02,551 INFO u.ImportCSV [main] Row: 3 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,551 INFO u.ImportCSV [main] Row: 3 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,551 INFO u.ImportCSV [main] Row: 3 Col: 6 - cellChiave: Step002 - cellValue: CashIn - Richiedi prima ricarica
+2021-03-18 18:23:02,552 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,552 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,552 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest003
+2021-03-18 18:23:02,552 INFO u.ImportCSV [main] idTest in cRow = IdTest003
+2021-03-18 18:23:02,552 INFO u.ImportCSV [main] cRowListX size = 3
+2021-03-18 18:23:02,553 INFO u.ImportCSV [main] Row: 4 Col: 0 - cellChiave: Id Test - cellValue: IdTest004
+2021-03-18 18:23:02,553 INFO u.ImportCSV [main] Row: 4 Col: 1 - cellChiave: Test Title - cellValue: Accetto una ricarica Flowe
+2021-03-18 18:23:02,553 INFO u.ImportCSV [main] Row: 4 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,554 INFO u.ImportCSV [main] Row: 4 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,554 INFO u.ImportCSV [main] Row: 4 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,554 INFO u.ImportCSV [main] Row: 4 Col: 6 - cellChiave: Step002 - cellValue: CashOut - Accetta una ricarica
+2021-03-18 18:23:02,555 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,555 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,555 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,555 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest004
+2021-03-18 18:23:02,555 INFO u.ImportCSV [main] idTest in cRow = IdTest004
+2021-03-18 18:23:02,556 INFO u.ImportCSV [main] cRowListX size = 4
+2021-03-18 18:23:02,556 INFO u.ImportCSV [main] Row: 5 Col: 0 - cellChiave: Id Test - cellValue: IdTest005
+2021-03-18 18:23:02,557 INFO u.ImportCSV [main] Row: 5 Col: 1 - cellChiave: Test Title - cellValue: Pagamento Primo bollettino premarcato
+2021-03-18 18:23:02,557 INFO u.ImportCSV [main] Row: 5 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,557 INFO u.ImportCSV [main] Row: 5 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,557 INFO u.ImportCSV [main] Row: 5 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,557 INFO u.ImportCSV [main] Row: 5 Col: 6 - cellChiave: Step002 - cellValue: CashOut - Primo Bollettino Premarcato
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest005
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] idTest in cRow = IdTest005
+2021-03-18 18:23:02,558 INFO u.ImportCSV [main] cRowListX size = 5
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 0 - cellChiave: Id Test - cellValue: IdTest006
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 1 - cellChiave: Test Title - cellValue: Pagamento Succe bollettino premarcato
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 4 - cellChiave: Precondizione - cellValue: Login -Primo bollettino
+2021-03-18 18:23:02,559 INFO u.ImportCSV [main] Row: 6 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] Row: 6 Col: 6 - cellChiave: Step002 - cellValue: CashOut - Successivo Bollettino Premarcato
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,560 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest006
+2021-03-18 18:23:02,561 INFO u.ImportCSV [main] idTest in cRow = IdTest006
+2021-03-18 18:23:02,561 INFO u.ImportCSV [main] cRowListX size = 6
+2021-03-18 18:23:02,561 INFO u.ImportCSV [main] Row: 7 Col: 0 - cellChiave: Id Test - cellValue: IdTest007
+2021-03-18 18:23:02,562 INFO u.ImportCSV [main] Row: 7 Col: 1 - cellChiave: Test Title - cellValue: Prima Ricarica Telefonica
+2021-03-18 18:23:02,562 INFO u.ImportCSV [main] Row: 7 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,562 INFO u.ImportCSV [main] Row: 7 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,563 INFO u.ImportCSV [main] Row: 7 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,563 INFO u.ImportCSV [main] Row: 7 Col: 6 - cellChiave: Step002 - cellValue: CashOut - Prima Ricarica Telefonica
+2021-03-18 18:23:02,563 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,563 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] verifico i valori prima = IdTest006
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest007
+2021-03-18 18:23:02,564 INFO u.ImportCSV [main] idTest in cRow = IdTest007
+2021-03-18 18:23:02,565 INFO u.ImportCSV [main] cRowListX size = 7
+2021-03-18 18:23:02,565 INFO u.ImportCSV [main] Row: 8 Col: 0 - cellChiave: Id Test - cellValue: IdTest008
+2021-03-18 18:23:02,566 INFO u.ImportCSV [main] Row: 8 Col: 1 - cellChiave: Test Title - cellValue: Cambio PassCode
+2021-03-18 18:23:02,566 INFO u.ImportCSV [main] Row: 8 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,567 INFO u.ImportCSV [main] Row: 8 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,567 INFO u.ImportCSV [main] Row: 8 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,567 INFO u.ImportCSV [main] Row: 8 Col: 6 - cellChiave: Step002 - cellValue: Profile - Cambio PassCode
+2021-03-18 18:23:02,567 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest006
+2021-03-18 18:23:02,568 INFO u.ImportCSV [main] verifico i valori prima = IdTest007
+2021-03-18 18:23:02,569 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest008
+2021-03-18 18:23:02,569 INFO u.ImportCSV [main] idTest in cRow = IdTest008
+2021-03-18 18:23:02,569 INFO u.ImportCSV [main] cRowListX size = 8
+2021-03-18 18:23:02,570 INFO u.ImportCSV [main] Row: 9 Col: 0 - cellChiave: Id Test - cellValue: IdTest009
+2021-03-18 18:23:02,570 INFO u.ImportCSV [main] Row: 9 Col: 1 - cellChiave: Test Title - cellValue: Cambio PassCode
+2021-03-18 18:23:02,570 INFO u.ImportCSV [main] Row: 9 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,571 INFO u.ImportCSV [main] Row: 9 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,571 INFO u.ImportCSV [main] Row: 9 Col: 5 - cellChiave: Step001 - cellValue: Login - Solo Login
+2021-03-18 18:23:02,571 INFO u.ImportCSV [main] Row: 9 Col: 6 - cellChiave: Step002 - cellValue: Profile - Cambio PassCode
+2021-03-18 18:23:02,571 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest006
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest007
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] verifico i valori prima = IdTest008
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest009
+2021-03-18 18:23:02,572 INFO u.ImportCSV [main] idTest in cRow = IdTest009
+2021-03-18 18:23:02,573 INFO u.ImportCSV [main] cRowListX size = 9
+2021-03-18 18:23:02,573 INFO u.ImportCSV [main] Row: 10 Col: 0 - cellChiave: Id Test - cellValue: IdTest010
+2021-03-18 18:23:02,574 INFO u.ImportCSV [main] Row: 10 Col: 1 - cellChiave: Test Title - cellValue: Ricarica Conto con Carta di Credito
+2021-03-18 18:23:02,574 INFO u.ImportCSV [main] Row: 10 Col: 2 - cellChiave: Description - cellValue: Verifico la ricezione di una richiesta di ricarica e l'accetto
+2021-03-18 18:23:02,574 INFO u.ImportCSV [main] Row: 10 Col: 3 - cellChiave: Test Da Eseguire - cellValue: False
+2021-03-18 18:23:02,575 INFO u.ImportCSV [main] Row: 10 Col: 5 - cellChiave: Step001 - cellValue: Login - Primo Login
+2021-03-18 18:23:02,575 INFO u.ImportCSV [main] Row: 10 Col: 6 - cellChiave: Step002 - cellValue: CashIn - Ricarica Conto Con Carta di Credito
+2021-03-18 18:23:02,576 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,579 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,579 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,579 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,580 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,580 INFO u.ImportCSV [main] verifico i valori prima = IdTest006
+2021-03-18 18:23:02,580 INFO u.ImportCSV [main] verifico i valori prima = IdTest007
+2021-03-18 18:23:02,580 INFO u.ImportCSV [main] verifico i valori prima = IdTest008
+2021-03-18 18:23:02,581 INFO u.ImportCSV [main] verifico i valori prima = IdTest009
+2021-03-18 18:23:02,581 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest010
+2021-03-18 18:23:02,581 INFO u.ImportCSV [main] idTest in cRow = IdTest010
+2021-03-18 18:23:02,581 INFO u.ImportCSV [main] cRowListX size = 10
+2021-03-18 18:23:02,582 INFO u.ImportCSV [main] Row: 11 Col: 0 - cellChiave: Id Test - cellValue: IdTest011
+2021-03-18 18:23:02,583 INFO u.ImportCSV [main] Row: 11 Col: 1 - cellChiave: Test Title - cellValue: PrimoTest Mediolanum App
+2021-03-18 18:23:02,583 INFO u.ImportCSV [main] Row: 11 Col: 2 - cellChiave: Description - cellValue: primo test mediolanum App Android 
+2021-03-18 18:23:02,583 INFO u.ImportCSV [main] Row: 11 Col: 3 - cellChiave: Test Da Eseguire - cellValue: True
+2021-03-18 18:23:02,583 INFO u.ImportCSV [main] Row: 11 Col: 5 - cellChiave: Step001 - cellValue: Login - Mediolanum
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest001
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest002
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest003
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest004
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest005
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest006
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest007
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest008
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest009
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] verifico i valori prima = IdTest010
+2021-03-18 18:23:02,584 INFO u.ImportCSV [main] Test Object creato con idTesr = IdTest011
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] idTest in cRow = IdTest011
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] cRowListX size = 11
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] Dimensione testbook cRowList : 11 test trovati
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 0) IdTest cRowListX : IdTest001 - Test Title : Login nuovo numero
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 1) IdTest cRowListX : IdTest002 - Test Title : Eseguo l'accesso all'app
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 2) IdTest cRowListX : IdTest003 - Test Title : Richiedo una ricarica Flowe
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 3) IdTest cRowListX : IdTest004 - Test Title : Accetto una ricarica Flowe
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 4) IdTest cRowListX : IdTest005 - Test Title : Pagamento Primo bollettino premarcato
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 5) IdTest cRowListX : IdTest006 - Test Title : Pagamento Succe bollettino premarcato
+2021-03-18 18:23:02,585 INFO u.ImportCSV [main] 6) IdTest cRowListX : IdTest007 - Test Title : Prima Ricarica Telefonica
+2021-03-18 18:23:02,586 INFO u.ImportCSV [main] 7) IdTest cRowListX : IdTest008 - Test Title : Cambio PassCode
+2021-03-18 18:23:02,586 INFO u.ImportCSV [main] 8) IdTest cRowListX : IdTest009 - Test Title : Cambio PassCode
+2021-03-18 18:23:02,586 INFO u.ImportCSV [main] 9) IdTest cRowListX : IdTest010 - Test Title : Ricarica Conto con Carta di Credito
+2021-03-18 18:23:02,586 INFO u.ImportCSV [main] 10) IdTest cRowListX : IdTest011 - Test Title : PrimoTest Mediolanum App
+2021-03-18 18:23:02,893 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,893 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest001
+2021-03-18 18:23:02,894 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,894 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,894 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,894 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,894 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,895 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,895 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest002
+2021-03-18 18:23:02,895 INFO t.TestBookManager [main] step da inserire in coda : Login - Solo Login
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest003
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : CashIn - Richiedi prima ricarica
+2021-03-18 18:23:02,896 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,897 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,897 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,897 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,897 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest004
+2021-03-18 18:23:02,897 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,900 INFO t.TestBookManager [main] step da inserire in coda : CashOut - Accetta una ricarica
+2021-03-18 18:23:02,902 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,903 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,903 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,903 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,903 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest005
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : CashOut - Primo Bollettino Premarcato
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest006
+2021-03-18 18:23:02,904 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : CashOut - Successivo Bollettino Premarcato
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest007
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : CashOut - Prima Ricarica Telefonica
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,905 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest008
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : Profile - Cambio PassCode
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest009
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : Login - Solo Login
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : Profile - Cambio PassCode
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,906 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest010
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : Login - Primo Login
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : CashIn - Ricarica Conto Con Carta di Credito
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,907 INFO t.TestBookManager [main] dimensione mappa : 10
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] valore letto da customRow [idTest] : IdTest011
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] step da inserire in coda : Login - Mediolanum
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,908 INFO t.TestBookManager [main] step da inserire in coda : 
+2021-03-18 18:23:02,908 INFO a.AppiumTest [main] testBook size  : null
+2021-03-18 18:23:02,956 INFO u.ImportCSV [main] idTest  : IdTest011
+2021-03-18 18:23:02,956 INFO u.ImportCSV [main] stepList  STR : Login - Mediolanum
+2021-03-18 18:23:02,959 INFO u.ImportCSV [main] stepList  STR : 
+2021-03-18 18:23:02,959 INFO u.ImportCSV [main] ID Test  : IdTest011Step NON Trovato : 
+2021-03-18 18:23:02,959 INFO u.ImportCSV [main] stepList  STR : 
+2021-03-18 18:23:02,959 INFO u.ImportCSV [main] ID Test  : IdTest011Step NON Trovato : 
+2021-03-18 18:23:02,960 INFO u.ImportCSV [main] stepList  STR : 
+2021-03-18 18:23:02,960 INFO u.ImportCSV [main] ID Test  : IdTest011Step NON Trovato : 
+2021-03-18 18:23:02,960 INFO u.ImportCSV [main] stepList  STR : 
+2021-03-18 18:23:02,960 INFO u.ImportCSV [main] ID Test  : IdTest011Step NON Trovato : 
+2021-03-18 18:23:02,960 INFO u.ImportCSV [main] Classi da testare : mediolanumApp.LoginMedioApp
+2021-03-18 18:23:03,096 INFO f.l.PrimoLogin [main] TestNG Listener onStart suite default output directory = C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\resultNG\test18-03-2021_18-23-02\PrimoTest Mediolanum App
+2021-03-18 18:23:03,118 INFO u.ImportCSV [main] Import CSV - Path: C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/testCaseData/TestCase1.xlsx
+2021-03-18 18:23:03,219 INFO u.ImportCSV [main] IdTest per la ricerca riga IdTest011
+2021-03-18 18:23:03,222 INFO u.ImportCSV [main] Numero di riga da processare: 11
+2021-03-18 18:23:03,294 INFO m.DriverMedioApp [main] URL da excel : http://127.0.0.1:4723/wd/hub
+2021-03-18 18:23:24,463 INFO f.l.PrimoLogin [main] TestNG Listener on finish invoked methods = [LoginMedioApp.beforeSuite(java.lang.String)[pri:0, instance:mediolanumApp.LoginMedioApp@607b2792]IdTest011  1618683794, LoginMedioApp.loginNuovoNumeroFlowe(java.lang.String)[pri:0, instance:mediolanumApp.LoginMedioApp@607b2792]IdTest011  1618683794, LoginMedioApp.afterSuite()[pri:0, instance:mediolanumApp.LoginMedioApp@607b2792]  <static>]
+2021-03-18 18:23:24,695 INFO a.AppiumTest [main] Carico Lo Scenario - Login
+2021-03-18 18:23:24,696 INFO a.AppiumTest [main] Carico Lo Scenario - Ricarica Conto : Effettuo la ricarica del conto
+2021-03-18 18:23:24,697 INFO a.AppiumTest [main] Carico Lo Scenario - Bollettino postale - Pagamento bollettino postale
+2021-03-18 18:23:24,697 INFO a.AppiumTest [main] Carico Lo Scenario - Cambio PassCode

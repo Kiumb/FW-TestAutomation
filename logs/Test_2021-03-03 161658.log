@@ -1,0 +1,20 @@
+2021-03-03 16:16:58,749 INFO a.AppiumTest [main] System property : 20210303
+2021-03-03 16:16:58,753 INFO a.AppiumTest [main] info - Inizio test ore : 03-03-2021 16:16:58
+2021-03-03 16:16:58,755 INFO u.ImportCSV [main] Import CSV - Path: C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/testCaseData/TestCase1.xlsx
+2021-03-03 16:16:58,772 ERROR u.ImportCSV [main] TestCase1.xlsx file non trovato o utilizzato da un altra app
+2021-03-03 16:16:58,773 WARN u.ImportCSV [main] exception message : 
+java.io.FileNotFoundException: C:\Users\valentino.mancino\appium-eclipseWS\appiumtest\testCaseData\TestCase1.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:345) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:259) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:214) ~[?:?]
+	at org.apache.poi.poifs.nio.FileBackedDataSource.newSrcFile(FileBackedDataSource.java:158) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.poifs.nio.FileBackedDataSource.<init>(FileBackedDataSource.java:60) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.poifs.filesystem.POIFSFileSystem.<init>(POIFSFileSystem.java:217) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.poifs.filesystem.POIFSFileSystem.<init>(POIFSFileSystem.java:170) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:322) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:295) ~[poi-4.1.2.jar:4.1.2]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:276) ~[poi-4.1.2.jar:4.1.2]
+	at utils.ImportCSV.getTestBook(ImportCSV.java:149) [classes/:?]
+	at testBookManager.TestBookManager.generateTestBook(TestBookManager.java:27) [classes/:?]
+	at appiumtest.AppiumTest.main(AppiumTest.java:55) [classes/:?]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Accetto una ricarica Flowe]">
+  <listeners>
+    <listener class-name="testNG.NGListenerTest1"/>
+  </listeners>
+  <test thread-count="5" name="test 2014 semiautomaticoIdTest03(failed)">
+    <parameter name="idTest" value="IdTest04"/>
+    <classes>
+      <class name="feature.login.PrimoLogin">
+        <methods>
+          <include name="loginNuovoNumeroFlowe" invocation-numbers="0"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- feature.login.PrimoLogin -->
+      <class name="feature.cashIn.VerificaEAccettaRichiestaRicarica">
+        <methods>
+          <include name="verificaEAccettaRichiestaRicarica" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- feature.cashIn.VerificaEAccettaRichiestaRicarica -->
+    </classes>
+  </test> <!-- test 2014 semiautomaticoIdTest03(failed) -->
+</suite> <!-- Failed suite [Accetto una ricarica Flowe] -->

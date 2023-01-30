@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">2 suites</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Login_nuovo_numero" class="navigator-link">
+              <span class="suite-name border-passed">Login nuovo numero</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Login_nuovo_numero" class="navigator-link ">
+                    <span>[unset file name]</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Login_nuovo_numero" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Login_nuovo_numero" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Login_nuovo_numero" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Login_nuovo_numero" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Login_nuovo_numero" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Login_nuovo_numero" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Login_nuovo_numero" class="hide-methods passed suite-Login_nuovo_numero"> (hide)</a> <!-- hide-methods passed suite-Login_nuovo_numero -->
+                      <a href="#" panel-name="suite-Login_nuovo_numero" class="show-methods passed suite-Login_nuovo_numero"> (show)</a> <!-- show-methods passed suite-Login_nuovo_numero -->
+                    </span>
+                    <div class="method-list-content passed suite-Login_nuovo_numero">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_nuovo_numero" title="feature.login.PrimoLogin" class="method navigator-link" hash-for-method="loginNuovoNumeroFlowe(IdTest01)">loginNuovoNumeroFlowe(IdTest01)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Login_nuovo_numero -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Eseguo_l_accesso_all_app" class="navigator-link">
+              <span class="suite-name border-passed">Eseguo l'accesso all'app</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>[unset file name]</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Eseguo_l_accesso_all_app" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Eseguo_l_accesso_all_app" class="hide-methods passed suite-Eseguo_l_accesso_all_app"> (hide)</a> <!-- hide-methods passed suite-Eseguo_l_accesso_all_app -->
+                      <a href="#" panel-name="suite-Eseguo_l_accesso_all_app" class="show-methods passed suite-Eseguo_l_accesso_all_app"> (show)</a> <!-- show-methods passed suite-Eseguo_l_accesso_all_app -->
+                    </span>
+                    <div class="method-list-content passed suite-Eseguo_l_accesso_all_app">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Eseguo_l_accesso_all_app" title="feature.login.SoloLogin" class="method navigator-link" hash-for-method="onlyLogin(IdTest02)">onlyLogin(IdTest02)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Eseguo_l_accesso_all_app -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Login_nuovo_numero" class="panel Login_nuovo_numero">
+          <div class="suite-Login_nuovo_numero-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">feature.login.PrimoLogin</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginNuovoNumeroFlowe(IdTest01)">
+                  </a> <!-- loginNuovoNumeroFlowe(IdTest01) -->
+                  <span class="method-name">loginNuovoNumeroFlowe</span>
+                  <span class="parameters">(IdTest01)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Login_nuovo_numero-class-passed -->
+        </div> <!-- panel Login_nuovo_numero -->
+        <div panel-name="suite-Eseguo_l_accesso_all_app" class="panel Eseguo_l_accesso_all_app">
+          <div class="suite-Eseguo_l_accesso_all_app-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">feature.login.SoloLogin</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="onlyLogin(IdTest02)">
+                  </a> <!-- onlyLogin(IdTest02) -->
+                  <span class="method-name">onlyLogin</span>
+                  <span class="parameters">(IdTest02)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Eseguo_l_accesso_all_app-class-passed -->
+        </div> <!-- panel Eseguo_l_accesso_all_app -->
+        <div panel-name="test-xml-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Login nuovo numero&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;testNG.NGListenerTest1&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;test 2014 semiautomatico&quot;&gt;
+    &lt;parameter name=&quot;idTest&quot; value=&quot;IdTest01&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;feature.login.PrimoLogin&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- test 2014 semiautomatico --&gt;
+&lt;/suite&gt; &lt;!-- Login nuovo numero --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="test-xml-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Eseguo l&amp;#039;accesso all&amp;#039;app&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;testNG.NGListenerTest1&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;test 2014 semiautomaticoIdTest01&quot;&gt;
+    &lt;parameter name=&quot;idTest&quot; value=&quot;IdTest02&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;feature.login.SoloLogin&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- test 2014 semiautomaticoIdTest01 --&gt;
+&lt;/suite&gt; &lt;!-- Eseguo l&apos;accesso all&apos;app --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Login nuovo numero</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">test 2014 semiautomatico (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Eseguo l'accesso all'app</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">test 2014 semiautomaticoIdTest01 (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Login nuovo numero</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Eseguo l'accesso all'app</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Login nuovo numero</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Login_nuovo_numero');
+function tableData_Login_nuovo_numero() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'loginNuovoNumeroFlowe')
+data.setCell(0, 2, 'feature.login.PrimoLogin')
+data.setCell(0, 3, 47481);
+window.suiteTableData['Login_nuovo_numero']= { tableData: data, tableDiv: 'times-div-Login_nuovo_numero'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 47 seconds</span>
+              <div id="times-div-Login_nuovo_numero">
+              </div> <!-- times-div-Login_nuovo_numero -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Eseguo l'accesso all'app</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Eseguo_l_accesso_all_app');
+function tableData_Eseguo_l_accesso_all_app() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'onlyLogin')
+data.setCell(0, 2, 'feature.login.SoloLogin')
+data.setCell(0, 3, 7470);
+window.suiteTableData['Eseguo_l_accesso_all_app']= { tableData: data, tableDiv: 'times-div-Eseguo_l_accesso_all_app'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <div id="times-div-Eseguo_l_accesso_all_app">
+              </div> <!-- times-div-Eseguo_l_accesso_all_app -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Login nuovo numero</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginNuovoNumeroFlowe(IdTest01)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Start App</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-30-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-30-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-30-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Avvio l'applicazione</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Login</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-36-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-36-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-36-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>tap ho gia un Account</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Autorizzazione SMS</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-38-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-38-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-38-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>OK - autorizza la lettura automatica del codice OTP via SMS</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Android Permission</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-40-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-40-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-40-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>accetto i permessi android</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Numero Telefonico</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-42-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-42-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-42-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Inserisco il numero di telefono: 1111110019</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Insert Passcode</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-43-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-43-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-43-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>inserisco il passcode: 00000</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Insert SMS code</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-46-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-46-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-46-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>inserisco il codice ricevuto via SMS: 123456</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: FingerPrint</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-49-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-49-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-49-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Skip Biometric</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Banner</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-50-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-50-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-50-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Skip banner 1</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Banner</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-51-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-51-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-51-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Skip banner 2</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Banner</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-52-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-52-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-52-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Skip banner 3</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Money</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-56-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-56-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-56-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>money page (jump)</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token Banner</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-57-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-57-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-16-57-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Visualizzo il Dialog per il security token</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-00-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-00-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-00-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Insert PassCode: 00000</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-03-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-03-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-03-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Confirm Security token00000</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-04-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-04-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-04-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Dialog Token Facile - OK</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-07-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-07-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-07-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Confirm Security token00000</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Dialog FingerPrint</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-13-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-13-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-13-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Skip Dialog FingerPrint</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Security Token</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-16-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-16-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-16-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Security token settato pagina di Successo - ok</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Test: null</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-17-loginNuovoNumeroFlowe.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-17-loginNuovoNumeroFlowe.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-17-loginNuovoNumeroFlowe.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>loginNuovoNumeroFlowe</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>prova</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output">onTestSuccess take screen</span>
+                <span class="reporter-method-output">Test feature.login.PrimoLogin completato in : 02/03/2021 15:17:16</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Eseguo l'accesso all'app</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">onlyLogin(IdTest02)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Solo Login</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-38-onlyLogin.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-38-onlyLogin.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-38-onlyLogin.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>onlyLogin</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Avvio l'applicazione</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Step: Insert PassCode</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-41-onlyLogin.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-41-onlyLogin.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-41-onlyLogin.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>onlyLogin</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>Inserisco il passcode: 00000</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><table style='width: 100%;'></span>
+                <span class="reporter-method-output"><tr><th colspan="3">Test: null</th></tr></span>
+                <span class="reporter-method-output"><tr></span>
+                <span class="reporter-method-output"><td style='width: 20%'</span>
+                <span class="reporter-method-output"><div > <a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-45-onlyLogin.png target="_blank"><img src='C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-45-onlyLogin.png' height='100' width='100' /></a></div></span>
+                <span class="reporter-method-output"><div><a href=C:\Users\valentino.mancino\appium-eclipseWS\appiumtest/appiumScreens/02-03-2021_15-17-45-onlyLogin.png target="_blank">click to open screenshot</a></div></span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>onlyLogin</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"><td>prova</span>
+                <span class="reporter-method-output"></td></span>
+                <span class="reporter-method-output"></tr>  </span>
+                <span class="reporter-method-output"> </table></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output">onTestSuccess take screen</span>
+                <span class="reporter-method-output">Test feature.login.SoloLogin completato in : 02/03/2021 15:17:44</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Login_nuovo_numero" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">feature.login.PrimoLogin</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeSuite(IdTest01)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">loginNuovoNumeroFlowe(IdTest01)</span>
+                <span class="method-start">25384 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">afterSuite</span>
+                <span class="method-start">74257 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Eseguo_l_accesso_all_app" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">feature.login.SoloLogin</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeSuite(IdTest02)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">onlyLogin(IdTest02)</span>
+                <span class="method-start">16954 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">afterSuite</span>
+                <span class="method-start">25444 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
